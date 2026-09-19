@@ -41,7 +41,7 @@ import pytz
      F      5005
 2. Open 6 terminal tabs corresponding to each router
 	Run the script for each router: python3 file_name.py router_name port_no 'config_file'
-	    Ex: python3 distance_vector.py "A" 5000 /Users/ayushipatel/Desktop/network.config.txt 
+	    Ex: python3 distance_vector.py "A" 5000 /Users/ajitkumar/Desktop/network.config.txt 
 
 
 
